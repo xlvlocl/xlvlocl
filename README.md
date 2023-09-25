@@ -1,4 +1,6 @@
-<a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons"></a>
+<div align="center">
+  <img src="https://www.flaticon.com/free-icons/programmer" width="600" height="300"/>
+</div>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/xlvlocl">
