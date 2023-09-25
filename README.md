@@ -23,3 +23,5 @@
 ---
 
 ### 💫 About Me :
+
+- I'm junior developer from Russia 🇷🇺 
