@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://ltdfoto.ru/images/2023/09/25/IMG_20230925_234914_862.jpg" width="100%" img/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/xlvlocl">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
