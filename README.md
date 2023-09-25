@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.flaticon.com/free-icons/programmer" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1100492836534767668/1155981254240514169/programmer.png" width="600" height="300"/>
 </div>
 </div>
 <div id="badges" align="center">
