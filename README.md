@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ltdfoto.ru/images/2023/09/25/IMG_20230925_234914_862.jpg" width="100%" img/>
+  <img src="https://ltdfoto.ru/images/2023/09/25/IMG_20230925_234914_862.jpg" width="100%" height="100%" img/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/xlvlocl">
@@ -13,5 +13,5 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=xlvlocl&style=flat-square&color=blue" alt=""/>
 <div align="center">
-  <img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" width="1920" height="1080"/>
+  <img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv.gif" width="100%" height="100%"/>
 </div>
