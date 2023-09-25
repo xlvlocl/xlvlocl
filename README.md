@@ -24,4 +24,9 @@
 
 ### 💫 About Me :
 
-- I'm junior developer from Russia 🇷🇺 
+I'm junior developer from Russia 🇷🇺
+
+🧐 Learning Python, HTML & css             
+🤖 Develop two Discord Bots              
+💰 Finding ways to earn money            
+🏫 Study at school        
