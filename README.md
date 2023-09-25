@@ -43,3 +43,8 @@ I'm junior developer from Russia 🇷🇺
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+  ---
+
+### :writing_hand: You can help me :
+If you want, you can vote for my bot to make it more popular [here](https://boticord.top/bot/AnonChat) and [here](https://bots.server-discord.com/1078924878071214110)
