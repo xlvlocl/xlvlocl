@@ -2,8 +2,6 @@
 
 **Algorithms Developer | Data Sciencist**
 
-![Give me 5$ pls](https://github.com/user-attachments/assets/7a00a486-07e0-4bef-ad66-a11e429d812b)
-
 - - -
 
 ### 🛠️ Tech Stack:
@@ -27,15 +25,27 @@
 - Playing MLBB ☠️
 
 - - -
-
-### 📫 Contact with me:
-- **Telegram:** [@xlvlocl](https://t.me/xlvlocl)  
-- **VK:** [xlvlocl](https://vk.com/xlvlocl)  
-- **Discord:** [xlvlocl](https://discordapp.com/users/1126269277293510699)
-- **Email:** [xlvlocl@gmail.com](mailto:xlvlocl@gmail.com)
-    
+### 🤪 When I have no idea what to do:
+[![codewars](https://www.codewars.com/users/xlvlocl/badges/large)](https://www.codewars.com/users/xlvlocl)
 - - -
 
-### 💬 My favorite quote:  
-> *"The three chief virtues of a programmer are: laziness, impatience, and hubris."*  
-> — **Larry Wall**  
+### 📫 Contact with me:
+<!-- Telegram -->
+- <a href="https://t.me/xlvlocl" target="_blank" title="Telegram">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" width="35" alt="Telegram" style="vertical-align: middle;">
+</a>
+
+<!-- VK -->
+- <a href="https://vk.com/xlvlocl" target="_blank" title="VK">
+  <img src="https://www.svgrepo.com/show/331634/vk-v2.svg" width="35" alt="VK" style="vertical-align: middle;">
+</a>
+
+<!-- Discord -->
+- <a href="https://discord.com/users/xlvlocl" target="_blank" title="Discord">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" width="35" alt="Discord" style="vertical-align: middle;">
+</a>
+
+<!-- Email -->
+- <a href="mailto:xlvlocl@gmail.com" title="Email">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" width="35" alt="Email" style="vertical-align: middle;">
+</a>
