@@ -1,8 +1,8 @@
 # Hello, I'm xlvlocl 👨‍💻
 
-**Algorithms Developer | Data Analyst**  
+**Algorithms Developer | Data Analyst** 
 
-![1000024061](https://github.com/user-attachments/assets/aa7f0ff3-a6c5-4344-a92c-370b4385d6c6)
+![1000024060](https://github.com/user-attachments/assets/7a00a486-07e0-4bef-ad66-a11e429d812b)
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, JavaScript, HTML/CSS, SQL and little bit C++
