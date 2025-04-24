@@ -2,7 +2,7 @@
 
 **Algorithms Developer | Data Sciencist**
 
-![1000024060](https://github.com/user-attachments/assets/7a00a486-07e0-4bef-ad66-a11e429d812b)
+![Give me 5$ pls](https://github.com/user-attachments/assets/7a00a486-07e0-4bef-ad66-a11e429d812b)
 
 - - -
 
@@ -15,7 +15,7 @@
 - **Discord AnonChat Bot** – Anonymous chat inside Discord with a lot of additional and unique features.
 - **Twitch Stream Notifier (Telegram Bot)** – Auto-alerts for live streams. 
 - **Data Parsers** – Web scraping & data extraction integrated with messengers. 
-- **Telegram Password Manager** – Bot for adding, editing, deleting and searching needed passwords.
+- **Password Manager (Telegram Bot)** – Bot for adding, editing, deleting and searching needed passwords.
 
 ### 🥲 My sites:
 - **[AnonChat](https://anchat.ru)** ***- site for my bot with little visual features. (I think it looks good)***
