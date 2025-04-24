@@ -19,7 +19,7 @@
 
 ### 🥲 My sites:
 - **[AnonChat](https://anchat.ru)** ***- site for my bot with little visual features. (I think it looks good)***
-- **[SuckOrPlay Minecraft Dynmap](https://map.suckorplay.ru)** ***- dynamic map of sop.20tps.ru server in Minecraft (belongs to my [friend](https://t.me/suckorplay)🤫😜)***
+- **[SuckOrPlay Minecraft Dynmap](https://map.suckorplay.ru)** ***- dynamic map of sop.20tps.ru server in Minecraft (belongs to my [friend](https://t.me/suckorplay))***
 
 ### 🎨 Beyond Code:
 - Digital Art ✏️  
