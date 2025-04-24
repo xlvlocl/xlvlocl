@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+xlvlocl.;Starter+Algorithms+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+xlvlocl.;Starter+Algorithms+Developer.)](https://golnk.ru/85z7q)
 
 - - -
 
