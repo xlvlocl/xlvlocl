@@ -15,7 +15,11 @@
 - **Discord AnonChat Bot** – Anonymous chat inside Discord with a lot of additional and unique features.
 - **Twitch Stream Notifier (Telegram Bot)** – Auto-alerts for live streams. 
 - **Data Parsers** – Web scraping & data extraction integrated with messengers. 
-- **Telegram Password Manager** – Bot for adding, editing, deleting and searching needed passwords. 
+- **Telegram Password Manager** – Bot for adding, editing, deleting and searching needed passwords.
+
+### 🥲 My sites:
+- **[AnonChat](https://anchat.ru)** ***- site for my bot with little visual features. (I think it looks good)***
+- **[SuckOrPlay Minecraft Dynmap](https://map.suckorplay.ru)** ***- dynamic map of sop.20tps.ru server in Minecraft (belongs to my [friend](https://t.me/suckorplay)🤫😜)***
 
 ### 🎨 Beyond Code:
 - Digital Art ✏️  
