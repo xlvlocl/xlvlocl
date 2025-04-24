@@ -2,7 +2,7 @@
 
 **Algorithms Developer | Data Analyst**  
 
-![Header Image](https://raw.githubusercontent.com/xlvlocl/xlvlocl/main/assets/banner.png) *← (Replace with your own image!)*  
+![1000024061](https://github.com/user-attachments/assets/aa7f0ff3-a6c5-4344-a92c-370b4385d6c6)
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, JavaScript, HTML/CSS, SQL and little bit C++
